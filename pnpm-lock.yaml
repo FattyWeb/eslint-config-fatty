@@ -1,0 +1,24 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@html-eslint/parser': 0.19.0
+
+dependencies:
+  '@html-eslint/parser': registry.npmmirror.com/@html-eslint/parser/0.19.0
+
+packages:
+
+  registry.npmmirror.com/@html-eslint/parser/0.19.0:
+    resolution: {integrity: sha512-BkBt6bShQ9vzvK6++mQ4W4qcMCAZ4RawcxOe8K0kR4VARebqMfcco645enajlyyTrr+F9jEXRMXEoHcsWkHjvA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@html-eslint/parser/-/parser-0.19.0.tgz}
+    name: '@html-eslint/parser'
+    version: 0.19.0
+    engines: {node: '>=8.10.0'}
+    dependencies:
+      es-html-parser: registry.npmmirror.com/es-html-parser/0.0.8
+    dev: false
+
+  registry.npmmirror.com/es-html-parser/0.0.8:
+    resolution: {integrity: sha512-kjMH23xhvTBw/7Ve1Dtb/7yZdFajfvwOpdsgRHmnyt8yvTsDJnkFjUgEEaMZFW+e1OhN/eoZrvF9wehq+waTGg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/es-html-parser/-/es-html-parser-0.0.8.tgz}
+    name: es-html-parser
+    version: 0.0.8
+    dev: false
